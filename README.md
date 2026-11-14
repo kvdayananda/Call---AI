@@ -1,4 +1,4 @@
-# FlashLearn Spaced Repetition Learning Engine v2
+# FlashLearn Spaced Repetition Learning Engine v3
 
 Adaptive spaced-repetition flashcard system implementing Leitner box progression and review scheduling.
 
